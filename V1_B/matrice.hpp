@@ -71,11 +71,11 @@ class matrice {
 		}
 
 		virtual int const getNbc() const{
-            return this->nbC;
-        }
-        virtual int const getNbl() const{
-            return this->nbL;
-        }
+            		return this->nbC;
+       	 	}
+       		virtual int const getNbl() const{
+            		return this->nbL;
+		}
 		virtual int const getNbElem() const{
 			return this->nbElem;
 		}
