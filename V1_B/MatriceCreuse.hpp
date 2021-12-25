@@ -1,5 +1,5 @@
 #pragma once
-#include "matriceDouble.hpp"
+
 #include "matrice.hpp"
 #include <vector>
 #include <cmath>
