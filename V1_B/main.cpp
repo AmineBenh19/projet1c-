@@ -2,7 +2,7 @@
 #include "matriceDouble.hpp"
 #include <cstdlib>
 #include "IndexInvalide.hpp"
-#include "matriceCreuse.hpp"
+#include "MatriceCreuse.hpp"
 
 using namespace std;
 
